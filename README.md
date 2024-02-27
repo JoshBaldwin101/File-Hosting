@@ -5,11 +5,15 @@ I just learned that you can host media on github to be displayed in the README.m
 
 # Example usage:
 
+Using Markdown:
 ```md
-<img src=https://raw.githubusercontent.com/JoshBaldwin101/File-Hosting/master/Images/File-Hosting/dogeduck1.png>
-
+<!-- Example with placeholders -->
 <img src=https://raw.githubusercontent.com/USERNAME/REPO-NAME/BRANCH/FOLDER/SUBFOLDER/FILE.png>
 ```
-Looks like:
-
+```md
+<!-- See the photo below -->
 <img src=https://raw.githubusercontent.com/JoshBaldwin101/File-Hosting/master/Images/File-Hosting/dogeduck1.png>
+```
+Looks like:
+<img src=https://raw.githubusercontent.com/JoshBaldwin101/File-Hosting/master/Images/File-Hosting/dogeduck1.png>
+`dogeduck1.png` from `Images/File-Hosting/dogeduck1.png`
