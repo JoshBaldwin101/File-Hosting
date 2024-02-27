@@ -15,5 +15,7 @@ Using Markdown:
 <img src=https://raw.githubusercontent.com/JoshBaldwin101/File-Hosting/master/Images/File-Hosting/dogeduck1.png>
 ```
 Looks like:
+
 <img src=https://raw.githubusercontent.com/JoshBaldwin101/File-Hosting/master/Images/File-Hosting/dogeduck1.png>
+
 `dogeduck1.png` from `Images/File-Hosting/dogeduck1.png`
