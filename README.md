@@ -1,5 +1,5 @@
 # File-Hosting
-An uninteresting repository reserved for hosting files and media to be referenced in my other repositories.
+A mostly uninteresting repository reserved for hosting files and media to be referenced in my other repositories.
 
 I just learned that you can host media on github to be displayed in the README.md of other repositories. Super cool stuff. So this repository is dedicated to that!
 
